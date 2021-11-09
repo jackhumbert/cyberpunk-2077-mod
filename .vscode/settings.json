@@ -1,0 +1,5 @@
+{
+    "redscript.modFolderName": "mod_name",
+    "redscript.buildPath": "${workspaceFolder}\\build\\game_directory\\",
+    "redscript.sourcePath": "${workspaceFolder}\\src\\redscript\\"
+}
